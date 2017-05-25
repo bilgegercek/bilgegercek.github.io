@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2017-05-24
-img: test.png
+img: png-test.png
 alt: image-alt
 project-date: May 2017
 client: My First Customer
