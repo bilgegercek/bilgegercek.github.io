@@ -38,7 +38,7 @@ h6 {
 
 
 hr.thin-line{
-    border-top: 1px solid white;
+    border-top: 1px solid #fffffff;
     margin-left: 22%;
     margin-right: 22%;
 }
@@ -107,7 +107,7 @@ header .intro-text .name {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
-    font-weight: 700;
+    font-weight: 300;
 }
 
 header .intro-text .skills {
