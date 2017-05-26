@@ -36,6 +36,11 @@ h6 {
     font-weight: 300;
 }
 
+
+hr.thin-line{
+    border-top: 1px solid #D228EA;
+   }
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
