@@ -190,7 +190,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #{{ site.color.bilge-primary }};
 }
 
 @media(max-width:767px) {
