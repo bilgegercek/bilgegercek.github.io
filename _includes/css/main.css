@@ -53,7 +53,7 @@ hr.star-primary {
     text-align: center;
 }
 
-hr.thin-line:after{
+hr.thin-line:after {
     border-top: 5px solid #94A94C;
     margin-left: 45%;
     margin-right: 45%;
