@@ -54,9 +54,9 @@ hr.star-primary {
 }
 
 hr.thin-line:after{
-    border-top: 1px solid #fffffff;
-    margin-left: 30%;
-    margin-right: 30%;
+    border-top: 5px solid #94A94C;
+    margin-left: 45%;
+    margin-right: 45%;
 }
 
 hr.star-light:after,
