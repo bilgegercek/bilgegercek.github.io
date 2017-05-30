@@ -53,12 +53,13 @@ hr.star-primary {
     text-align: center;
 }
 
-hr.thin-line:after{
-    ##border-top: 5px solid #94A94C;
-    color: #94A94C;
-    display: inline-block;
-    margin-left: 45%;
-    margin-right: 45%;
+hr.thin-line-categories{
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
 }
 
 hr.star-light:after,
