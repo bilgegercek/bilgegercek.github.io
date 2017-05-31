@@ -12,6 +12,8 @@ description: Bodrum is one of the major resort towns in Turkey with a population
 role: I worked as a UX/UI designer while collaborating directly with the development team. I led the design work by analyzing the existing application, redefining the structure of information, creating user scenarios, producing the wireframes, user flows and interface design. 
 process: After a successful project pitch, we were asked to submit a working prototype in one month. We studied tourism statistics and reports published by regional municipality and Ministry of Tourism and Culture, then analyzed the previous design of Let's Bodrum as well as other available navigation and promotion apps on Play Store. After identifying personas and use case scenarios to help us generate project requirements, I sketched the wireframes and user flows. Once we evaluated the design alternatives I created, the rest of the team started to work on developing the app. I designed the hi-fi UI mock ups.  
 img2: lb-wf-16.png
+img2-caption: Examples of Wireframes
 img3: lb-hifi.png
+img3-caption: Hi-fi Mockups
 
 ---
