@@ -33,14 +33,14 @@ h5,
 h6 {
     text-transform: uppercase;
     font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 3em;
+    font-size: 2em;
     font-weight: 200;
   }
 
 h3 {
     text-transform: uppercase;
     font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2.5em;
+    font-size: 1.75em;
     font-weight: 200;
     color: #{{ site.color.bilge-primary }};
 }
@@ -48,7 +48,7 @@ h3 {
 h4 {
     text-transform: uppercase;
     font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 80;
     color: #{{ site.color.bilge-primary }};
 }
