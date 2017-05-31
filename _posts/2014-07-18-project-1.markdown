@@ -12,5 +12,7 @@ description: Mobile OHS was a test preparation app for the occupational safety a
 role: I worked as a UX/UI designer who collaborated directly with the development team. I was responsible for the logo design, interaction and UI design of the Android app. I led the design work, produced the wireframes, designed the user flows and the interface. 
 process: We started the project with researching on OHS certification process and then conducted interviews with the instructors of OHS certification preparation courses and candidates to get insights into the preparation process and the potential users of the project. We identified personas and use case scenarios to generate project requirements. After defining the scope of the product we were responsible for, I designed the wireframes. My team and I decided on the best design we came up with and finally I designed hi-fi UI mock ups.  
 img2: game.png
+img2-caption: Example of Wireframes
 img3: cake.png
+img3-caption: Hi-fi Mockups
 ---
