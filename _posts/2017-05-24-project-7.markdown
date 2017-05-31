@@ -1,6 +1,6 @@
 ---
 layout: default
-project-name: Let's Bodrum
+title: Let's Bodrum
 date: 2017-05-24
 img: letsbodrum-cover.png
 alt: image-alt
