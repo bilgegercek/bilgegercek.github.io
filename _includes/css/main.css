@@ -27,7 +27,6 @@ a.active {
 
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
@@ -36,6 +35,11 @@ h6 {
     font-weight: 200;
 }
 
+h3 {
+    text-transform: uppercase;
+    font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 80;
+}
 
 hr.thin-line{
     border-top: 1px solid #fffffff;
