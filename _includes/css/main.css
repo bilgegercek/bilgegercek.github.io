@@ -9,7 +9,7 @@ body {
 }
 
 p {
-    font-size: 1em;
+    font-size: 1.25em;
     color: #{{ site.color.bilge-primary }};
 }
 
@@ -53,34 +53,6 @@ h4 {
     color: #{{ site.color.bilge-primary }};
 }
 
-@media(min-width:768px) {
-    h1,
-    h2,
-    h5,
-    h6 {
-        text-transform: uppercase;
-        font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 3.75em;
-        font-weight: 200;
-  }
-
-    h3 {
-        text-transform: uppercase;
-        font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 3em;
-        font-weight: 200;
-        color: #{{ site.color.bilge-primary }};
-   }
-
-h4 {
-    text-transform: uppercase;
-    font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2em;
-    font-weight: 80;
-    color: #{{ site.color.bilge-primary }};
-}
-}
-
 hr.thin-line{
     border-top: 1px solid #fffffff;
     margin-left: 22%;
@@ -99,14 +71,12 @@ hr.star-primary {
 
 hr.thin-line-categories{
     margin: 15px auto 30px;
-    padding: 0;
     max-width: 400px;
-    border: 0;
+    display: block;
     margin-left: 20%;
     margin-right: 20%;
     border-top: solid 3px;
-    text-align: center;
-}
+ }
 
 hr.star-light:after,
 hr.star-primary:after {
@@ -464,7 +434,19 @@ footer .footer-below {
 .portfolio-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
-      color: secondary; 
+    color: #{{ site.color.secondary}}; 
+}
+
+.portfolio-modal .modal-content h3 {
+    margin: 0;
+    font-size: 3em;
+    color: #{{ site.color.bilge-primary}}; 
+}
+
+.portfolio-modal .modal-content h4 {
+    margin: 0;
+    font-size: 2.25em;
+    color: #{{ site.color.bilge-primary}}; 
 }
 
 .portfolio-modal .modal-content figure {
