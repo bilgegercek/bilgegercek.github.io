@@ -4,7 +4,7 @@ modal-id: 7
 date: 2017-05-24
 img: letsbodrum-cover.png
 alt: image-alt
-[comment]: <> (project-date: May 2017)
+project-date: May 2017
 client: Bolt Software Development
 category: UX/UI Design
 description: Bodrum is one of the major resort towns in Turkey with a population of 145K during winter and the town hosts 
