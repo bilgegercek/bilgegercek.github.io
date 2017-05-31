@@ -469,6 +469,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content figure {
     margin-bottom: 30px;
+    color: #{{ site.color.bilge-primary }};
 }
 
 .portfolio-modal .modal-content .item-details {
