@@ -66,16 +66,18 @@ h4 {
     h3 {
         text-transform: uppercase;
         font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 3em;
+        font-size: 2.5em;
         font-weight: 200;
+        color: #{{ site.color.bilge-primary }};
    }
 
 h4 {
     text-transform: uppercase;
     font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2.5em;
+    font-size: 2em;
     font-weight: 80;
     color: #{{ site.color.bilge-primary }};
+}
 }
 
 hr.thin-line{
