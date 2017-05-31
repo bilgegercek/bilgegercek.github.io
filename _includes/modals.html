@@ -21,10 +21,13 @@
                             <h4>The Process</h4>
                             <p>{{ post.process }}</p>
                             <figure>   
-                         <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt}}">
-                            <figcaption>fikibok</figcaption>
-                         </figure>
-                            <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" alt="{{ post.alt}}">
+                              <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt}}">
+                              <figcaption>{{ post.img2-caption }}</figcaption>
+                            </figure>
+                            <figure> 
+                              <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" alt="{{ post.alt}}">
+                              <figcaption>{{ post.img2-caption }}</figcaption>
+                            </figure>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
