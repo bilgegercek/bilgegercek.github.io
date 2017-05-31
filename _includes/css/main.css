@@ -33,18 +33,47 @@ h5,
 h6 {
     text-transform: uppercase;
     font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 3em;
     font-weight: 200;
   }
 
 h3 {
     text-transform: uppercase;
     font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 3em;
     font-weight: 200;
 }
 
 h4 {
     text-transform: uppercase;
     font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2.5em;
+    font-weight: 80;
+    color: #{{ site.color.bilge-primary }};
+}
+
+@media(min-width:768px) {
+    h1,
+    h2,
+    h5,
+    h6 {
+        text-transform: uppercase;
+        font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 3.75em;
+        font-weight: 200;
+  }
+
+    h3 {
+        text-transform: uppercase;
+        font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 3em;
+        font-weight: 200;
+   }
+
+h4 {
+    text-transform: uppercase;
+    font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2.5em;
     font-weight: 80;
     color: #{{ site.color.bilge-primary }};
 }
