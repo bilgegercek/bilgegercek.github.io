@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: LET'S BODRUM
+modal-id: 7
 date: 2017-05-24
 img: letsbodrum-cover.png
 alt: image-alt
