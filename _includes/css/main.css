@@ -60,8 +60,10 @@ hr.star-primary {
 hr.thin-line-categories{
     margin: 15px auto 30px;
     padding: 0;
-    max-width: 250px;
+    max-width: 400px;
     border: 0;
+    margin-left: 20%;
+    margin-right: 20%;
     border-top: solid 3px;
     text-align: center;
 }
