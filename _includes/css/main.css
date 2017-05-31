@@ -33,6 +33,7 @@ h6 {
     text-transform: uppercase;
     font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 200;
+    color: secondary; 
 }
 
 h3 {
