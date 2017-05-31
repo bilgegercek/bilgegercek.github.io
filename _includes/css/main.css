@@ -10,12 +10,12 @@ body {
 
 p {
     font-size: 20px;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.bilge-primary }};
 }
 
 p.small {
     font-size: 16px;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.bilge-primary }};
 }
 
 a,
@@ -41,7 +41,7 @@ h3 {
     text-transform: uppercase;
     font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 80;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.bilge-primary }};
 }
 
 hr.thin-line{
