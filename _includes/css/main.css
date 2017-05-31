@@ -29,7 +29,6 @@ a.active {
 
 h1,
 h2,
-h4,
 h5,
 h6 {
     text-transform: uppercase;
@@ -38,6 +37,13 @@ h6 {
   }
 
 h3 {
+    text-transform: uppercase;
+    font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 200;
+    color: #{{ site.color.bilge-primary }};
+  }
+
+h4 {
     text-transform: uppercase;
     font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 80;
