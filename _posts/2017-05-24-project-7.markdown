@@ -1,10 +1,9 @@
 ---
 layout: default
-modal-id: 7
+modal-id: LET'S BODRUM
 date: 2017-05-24
 img: letsbodrum-cover.png
 alt: image-alt
-project-date: May 2017
 client: Bolt Software Development
 category: UX/UI Design
 description: Bodrum is one of the major resort towns in Turkey with a population of 145K during winter and the town hosts between 1M and 1.5M vacationers during summer. Bodrum Chamber of Commerce (BODTO) had  published an app named  "Let's Bodrum" a year before my team was included in the project. It was a promotion app to promote members of BODTO and to assist its users with informing about businesses and events in Bodrum. BODTO asked us to re-design the app because the existing app wasn’t meeting the expectations of the client. 
