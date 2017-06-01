@@ -79,6 +79,15 @@ hr.thin-line-categories{
     border-top: solid 1px;
  }
 
+hr.thin-line-modals{
+    margin: 15px auto 30px;
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top: solid 1px;
+    color: #{{ site.color.bilge-primary }};
+ }
+
 hr.star-light:after,
 hr.star-primary:after {
     content: "\f005";
