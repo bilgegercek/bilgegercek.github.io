@@ -113,6 +113,10 @@ hr.star-primary:after {
     margin-bottom: 30px;
 }
 
+.img-alter-centered {
+    margin: 0 auto;
+}
+
 header {
     text-align: center;
     color: #fff;
