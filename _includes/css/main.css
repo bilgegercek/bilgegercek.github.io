@@ -110,6 +110,7 @@ hr.star-primary:after {
 
 .img-centered {
     margin: 0 auto;
+    margin-bottom: 30px;
 }
 
 header {
