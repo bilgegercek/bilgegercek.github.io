@@ -20,6 +20,16 @@ p.persona-text {
     vertical-align: bottom;
 }
 
+div.row-persona{
+    display: table;
+}
+
+div.col-persona{
+    float: none;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
 p.small {
     font-size: 0.5em;
     color: #{{ site.color.bilge-primary }};
