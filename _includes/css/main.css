@@ -17,6 +17,7 @@ p {
 p.persona-text {
     margin-bottom: 0px;
     text-align: left;
+    vertical-align: bottom;
 }
 
 p.small {
