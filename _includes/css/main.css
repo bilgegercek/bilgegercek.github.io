@@ -55,6 +55,14 @@ h4 {
     color: #{{ site.color.bilge-primary }};
 }
 
+h5 {
+    text-transform: uppercase;
+    font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.25em;
+    font-weight: 80;
+    color: #{{ site.color.bilge-primary }};
+}
+
 hr.thin-line{
     border-top: 1px solid #fffffff;
     margin-left: 22%;
