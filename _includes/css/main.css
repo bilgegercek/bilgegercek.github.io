@@ -85,6 +85,11 @@ hr.thin-line{
     margin-right: 22%;
 }
 
+hr.persona-hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
