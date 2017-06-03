@@ -22,7 +22,7 @@ p.small {
 }
 
 p.scenario{
-    font: italic;
+    font-style: italic;
 }
 
 a,
