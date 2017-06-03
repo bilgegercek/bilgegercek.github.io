@@ -21,6 +21,10 @@ p.small {
     margin-bottom: 20px;
 }
 
+p.scenario{
+    font: italic;
+}
+
 a,
 a:hover,
 a:focus,
@@ -68,11 +72,6 @@ hr.thin-line{
     border-top: 1px solid #fffffff;
     margin-left: 22%;
     margin-right: 22%;
-}
-
-hr.persona-hr{
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
 
 hr.star-light,
