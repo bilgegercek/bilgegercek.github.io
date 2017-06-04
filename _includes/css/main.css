@@ -138,13 +138,10 @@ hr.star-primary:after {
     margin-bottom: 30px;
 }
 
-img.persona {
-    background-color: #7e7d7f;
-    padding: 50px;
-}
-
 .img-alter-centered {
     margin: 0 auto;
+    padding: 50px;
+    background-color: #7e7d7f;
 }
 
 header {
