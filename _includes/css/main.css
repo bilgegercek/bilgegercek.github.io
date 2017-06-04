@@ -140,6 +140,12 @@ hr.star-primary:after {
 
 .img-alter-centered {
     margin: 0 auto;
+}
+
+
+
+.img-alter-centered-persona {
+    margin: 0 auto;
     padding: 50px;
     background-color: #7e7d7f;
 }
