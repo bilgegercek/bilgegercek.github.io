@@ -17,7 +17,7 @@ img2: mo-persona-card-16.png
 img2-caption: Example of Persona for Mobile OHS 
 user-scenario: Tunc arrives at the bus stop and pulls out his phone. He wants to do a short test before he gets  on the bus. He opens the app, sets the number of questions  to 20. He includes the subjects that he needs practice, because throughout his professional experience, he has already excelled in some of the other subjects. He starts the test. When he reaches the 4th question, bus arrives earlier than he expected. He pauses the test, gets on the bus, and then resumes the test from the last question he reviewed. He goes back and forth to review his answers before he finishes the test. When he is done, he checks the answers, reviews the summary of the test. There are some questions he cannot understand the correct answers to, and expands the explanation section. He realizes that there is an erroneous question, writes a comment on it and sends it to the app admin.  
 details3: 
-img3: mo-wireframes-v.png
+img3: mo-wireframes_v.png
 img3-caption: Example of Wireframes
 img4: mo-hifi.png
 img4-caption: Hi-fi Mockups
