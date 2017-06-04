@@ -14,7 +14,7 @@ process: The project was in the initiation stage when my team got involved with 
 details1: Even though there is not a statistical data on demographics and employment status of the candidates, we found out from the interviews that most candidates have already been working as full-time workers, and struggling with strict time limitations during the preparation period. 
 details2: We identified personas and use case scenarios to generate project requirements. After defining the scope of the product we were responsible for, I designed the wireframes. My team and I decided on the best design we came up with and finally I designed hi-fi UI mock ups. 
 img2: mo-persona-card-16.png
-img2-caption: Example of Persona for Mobile OHS 
+img2-caption: Example of Persona 
 user-scenario: Tunc arrives at the bus stop and pulls out his phone. He wants to do a short test before he gets  on the bus. He opens the app, sets the number of questions  to 20. He includes the subjects that he needs practice, because throughout his professional experience, he has already excelled in some of the other subjects. He starts the test. When he reaches the 4th question, bus arrives earlier than he expected. He pauses the test, gets on the bus, and then resumes the test from the last question he reviewed. He goes back and forth to review his answers before he finishes the test. When he is done, he checks the answers, reviews the summary of the test. There are some questions he cannot understand the correct answers to, and expands the explanation section. He realizes that there is an erroneous question, writes a comment on it and sends it to the app admin.  
 details3: 
 img3: mo-wireframes_v.png
