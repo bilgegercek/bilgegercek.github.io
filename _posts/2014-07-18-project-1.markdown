@@ -8,11 +8,17 @@ alt: image-alt
 client: Bolt Software Development
 project-date: May 2015
 category: UX/UI Design
-description: Mobile OHS was a test preparation app for the occupational safety and health certification exam in Turkey. The project was in the initiation stage when my team got involved with the client. The client asked us to design an Android app to assist students with their studies and to develop a prototype before he invested in more on the idea. The reason our client asked us to design and develop this app was to provide a mobile preparation platform which would enable candidates to study in several circumstances.
+description: Mobile OHS was a test preparation app for the occupational safety and health certification exam in Turkey. The project was in the initiation stage when my team got involved with the client. The client asked us to design an Android app to assist students with their studies and to develop a prototype before he invested in more on the idea. The objective of the app was to provide a mobile preparation platform which would enable candidates to study in several circumstances.
 role: I worked as a UX/UI designer who collaborated directly with the development team. I was responsible for the logo design, interaction and UI design of the Android app. I led the design work, produced the wireframes, designed the user flows and the interface. 
-process: We started the project with researching on OHS certification process and then conducted interviews with the instructors of OHS certification preparation courses and candidates to get insights into the preparation process and the potential users of the project. We identified personas and use case scenarios to generate project requirements. After defining the scope of the product we were responsible for, I designed the wireframes. My team and I decided on the best design we came up with and finally I designed hi-fi UI mock ups.  
-img2: game.png
-img2-caption: Example of Wireframes
-img3: cake.png
-img3-caption: Hi-fi Mockups
+process: The project was in the initiation stage when my team got involved with the client. The client asked us to design an Android app to assist students with their studies and to develop a prototype before he invested more on the idea. We conducted design research and interviews with the instructors of OHS certification preparation courses and candidates to get insights into the preparation process and the potential users of the project. 
+details1: Even though there is not a statistical data on demographics and employment status of the candidates, we found out from the interviews that most candidates have already been working as full-time workers, and struggling with strict time limitations during the preparation period. 
+details2: We identified personas and use case scenarios to generate project requirements. After defining the scope of the product we were responsible for, I designed the wireframes. My team and I decided on the best design we came up with and finally I designed hi-fi UI mock ups. 
+img2: persona card 
+img2-caption: Example of Persona for Mobile OHS 
+user-scenario: Tunc arrives at the bus stop and pulls out his phone. He wants to do a short test before he gets  on the bus. He opens the app, sets the number of questions  to 20. He includes the subjects that he needs practice, because throughout his professional experience, he has already excelled in some of the other subjects. He starts the test. When he reaches the 4th question, bus arrives earlier than he expected. He pauses the test, gets on the bus, and then resumes the test from the last question he reviewed. He goes back and forth to review his answers before he finishes the test. When he is done, he checks the answers, reviews the summary of the test. There are some questions he cannot understand the correct answers to, and expands the explanation section. He realizes that there is an erroneous question, writes a comment on it and sends it to the app admin.  
+details3: 
+img3: game.png
+img3-caption: Example of Wireframes
+img4: cake.png
+img4-caption: Hi-fi Mockups
 ---
