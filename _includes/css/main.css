@@ -23,6 +23,9 @@ p.small {
 
 p.scenario{
     font-style: italic;
+    color: white; 
+    background-color:black;
+    margin-top: 50px;
 }
 
 a,
