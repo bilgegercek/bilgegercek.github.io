@@ -142,12 +142,10 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
-
-
 .img-persona {
     margin: 0 auto;
     padding: 50px;
-    background-color: #7e7d7f;
+    background-color: red;
 }
 
 header {
