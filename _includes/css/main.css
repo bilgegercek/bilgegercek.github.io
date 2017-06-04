@@ -24,7 +24,7 @@ p.small {
 p.scenario{
    font-style: italic;
    color: white; 
-   background-color: #{{ site.color.bilge-primary }};
+   background-color: #7e7d7f;
    padding: 50px;
 }
 
