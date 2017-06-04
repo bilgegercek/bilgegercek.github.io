@@ -22,9 +22,9 @@ p.small {
 }
 
 p.scenario{
-    font-style: italic;
-    color: white; 
-    background-color:black;
+   font-style: italic;
+   color: white; 
+   background-color: #{{ site.color.bilge-primary }};
    padding: 50px;
 }
 
