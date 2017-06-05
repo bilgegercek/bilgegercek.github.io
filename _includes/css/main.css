@@ -34,6 +34,12 @@ p.about-me{
     font-size: 1.25em;
 }
 
+p.credits{
+    color: white;
+    font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 0.25em;
+}
+
 a,
 a:hover,
 a:focus,
