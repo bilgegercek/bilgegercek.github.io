@@ -15,5 +15,5 @@ img3: qi-wireframes.png
 img3-caption: Example of Wireframes
 img4: qi-hifi.png
 img4-caption: Hi-fi Mockups
-deneme: hello world! 
+deneme: ELSEIF DENEME
 ---
