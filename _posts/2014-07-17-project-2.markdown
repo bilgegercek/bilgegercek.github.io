@@ -11,8 +11,8 @@ category: UX/UI Design
 description: Quick Intro is a hobby project. The aim is to provide quick facts about a subject in a structured manner. The project is supposed to include several categories of topics such as touristic places around the world, history of art, artists, etc. Each category will cover distinct subheadings according to the context. Quick Intro apps will also provide users with a list of suggested readings that can be purchased via Amazon.com. 
 role: I was the designer of the project and worked in collaboration with the developer. I designed the information structure of each category and logos, produced wireframes, and finalized the interface design. I was also responsible for the content creation of the apps. 
 process: We started the project by doing brainstorming on the content that the apps will include. Once we decided that we would build a series of reference apps, we analyzed other reference apps available in stores. This helped us decide what subheadings to include as well as give ideas about attractive design solutions. While producing wireframes, I tried to keep the elements as simple as possible so that it would be adjustable to different contents. Once we agreed on the design scheme, I created hi-fi UI mockups.  
-img2: qi-wireframes.png
-img2-caption: Example of Wireframes
-img3: qi-hifi.png
-img3-caption: Hi-fi Mockups
+img3: qi-wireframes.png
+img3-caption: Example of Wireframes
+img4: qi-hifi.png
+img4-caption: Hi-fi Mockups
 ---
