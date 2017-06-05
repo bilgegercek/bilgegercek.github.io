@@ -21,19 +21,15 @@
                             <h4>The Process</h4>
                             <p>{{ post.process }}</p>
                             <p>{{ post.details1 }}</p>
-                            {% if post.img2 == nil %}
-                     	    <p> BLANK </p> 
-                     	    {% else %}
+                            {% if post.img2 != nil %}
                      	    <figure>   
                             <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-persona" alt="{{ post.alt}}">
                             <figcaption>{{ post.img2-caption }}</figcaption>
                             </figure>
 			    <p>{{ post.details2 }}</p>
 			    {% endif %}
-                            {% if post.user-scenario == nil %}
-                     	    <p> BLANK </p> 
-                     	    {% else %}
-		            <h5>Example of User Scenario</h5>
+                            {% if post.user-scenario != nil %}
+                     	    <h5>Example of User Scenario</h5>
                             <p class="scenario">{{ post.user-scenario }}</p>
                             <figure>   
                      	    {% endif %}      
