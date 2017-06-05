@@ -53,7 +53,7 @@ address:
   - line: Ontario, CA
 
 # Credits content
-credits: "Credits: Freelancer Theme by <a href="http://startbootstrap.com">Start Bootstrap</a>"
+credits: 'Credits: Freelancer Theme by <a href="http://startbootstrap.com">Start Bootstrap</a>'
 
 # Build settings
 markdown: kramdown
