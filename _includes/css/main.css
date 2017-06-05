@@ -96,17 +96,17 @@ hr.star-primary {
 hr.thin-line-categories{
     margin: 15px auto 30px;
     display: block;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 35%;
+    margin-right: 35%;
     border-top: solid 3px;
  }
 
 hr.thin-line-modals{
     margin: 15px auto 30px;
     display: block;
-    margin-left: 20%;
-    margin-right: 20%;
-    border-top: solid 1px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-top: solid 3px;
     color: #{{ site.color.bilge-primary }};
  }
 
