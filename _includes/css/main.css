@@ -89,9 +89,9 @@ hr.star-primary {
 
 hr.thin-line-categories{
     margin: 15px auto 30px;
-    display: block;
-    margin-left: 20%;
-    margin-right: 20%;
+    display: inline-block;
+    margin-left: 30%;
+    margin-right: 30%;
     border-top: solid 1px;
  }
 
