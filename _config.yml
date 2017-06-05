@@ -5,7 +5,7 @@ url: https://bilgegercek.github.io
 description: "Bilge Gercek - UX/UI Design Portfolio"
 keywords: "UX designer, UX design, Bilge, Gercek, Bilge Gercek, Bilge Yurderi, Yurderi, designer, architect, portfolio, design portfolio, UX portfolio, freelancer, freelance, Toronto, Canada"
 skills: "Designer | UX Enthusiast | Architect"
-meta_author: LastName FirstName
+meta_author: Gercek Bilge
 
 # Google webmaster tools
 google_verify:
@@ -33,8 +33,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Bilge Gercek
+  location: Toronto, ON
   social: Around the Web
   credits: Credits
 
