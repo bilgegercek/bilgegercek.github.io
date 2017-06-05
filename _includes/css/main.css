@@ -28,6 +28,12 @@ p.scenario{
    padding: 50px;
 }
 
+p.about-me{
+    color: white;
+    font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.25em;
+}
+
 a,
 a:hover,
 a:focus,
