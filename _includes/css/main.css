@@ -298,6 +298,7 @@ span.caption-title {
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
     opacity: 1;
+    color: secondary;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
