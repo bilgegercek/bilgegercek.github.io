@@ -36,10 +36,10 @@
                             <img src="img/portfolio/{{ post.img4 }}" class="img-responsive img-alter-centered" alt="{{ post.alt}}">
                               <figcaption>{{ post.img4-caption }}</figcaption>
                             </figure>
-                     {% if page.deneme %}
-                     <p>{{ post.deneme }}</p> 
+                     {% if page.deneme == blank %}
+                     <p> BLANK </p> 
                      {% else %}
-                     <p>BOK</p>
+                     <p>{{ post.deneme }} </p>
                      {% endif %}
                             <ul class="list-inline item-details">
                                 <li>Client:
