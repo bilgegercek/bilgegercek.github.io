@@ -292,6 +292,7 @@ section.success {
 span.caption-title {
     font-size: 1em;
     color: #fff;
+    font-family: "acumin-pro-semi-condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
