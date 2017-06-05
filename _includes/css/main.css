@@ -286,6 +286,12 @@ section.success {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
+    text-align: center;
+}
+
+span.caption-title {
+    font-size: 1em;
+    color: #fff;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
