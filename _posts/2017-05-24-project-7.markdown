@@ -17,7 +17,7 @@ img2: lb-persona-card-16.png
 img2-caption: Example of Persona
 user-scenario: Sofia stays at a hotel in downtown for a week. This is her first night in town and she is a bit tired after 4-hour flight. She cannot decide whether to have a relaxed night with a glass of wine after dinner or to explore around to find shops that sell authentic souvenirs. While at the lobby she pulls out her phone before heading to hotel's restaurant, opens Let's Bodrum app and checks nearby bars. She cannot find any bar within 500m. and extends the radius of her search. The nearest bar is about 1.5 km. away from her hotel. She doesn't feel like walking there and considers having a short walk to check nearby stores close to her hotel. Then she remembers the store that her friend mentioned which carries one-of-a-kind lamps. She searches for the store, realizes that it is 300m.-walk away from her hotel. While checking the store details, she sees that there is a 50% deal on lamps that she can benefit via the app. She prints the QR code to get the deal and heads to the restaurant to have her dinner. 
 details3: I designed and sketched the wireframes and user flows. Once we evaluated the design alternatives I created, the rest of the team started to work on developing the app. I designed the hi-fi UI mock ups.  
-int-wiref: width="362" height="640" src="https://xd.adobe.com/embed/20dce70b-395a-4edb-9062-c024012d9119" frameborder="0" allowfullscreen
+int-wiref: 'width="362" height="640" src="https://xd.adobe.com/embed/20dce70b-395a-4edb-9062-c024012d9119" frameborder="0" allowfullscreen'
 int-wiref-caption: Example of Lo-Fi Prototype
 img3: lb-wf-16.png
 img3-caption: Examples of Wireframes
