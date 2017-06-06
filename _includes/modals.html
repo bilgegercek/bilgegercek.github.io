@@ -36,10 +36,12 @@
         		    <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-alter-centered" alt="{{ post.alt}}">
                             <figcaption>{{ post.img3-caption }}</figcaption>
                             </figure>
-			    <figure> 
-                           <iframe>{{ post.int-wiref}} </iframe>
+			    {% if post.int-wiref != nil %}
+			    <figure> 	    
+                           <iframe {{ post.int-wiref}} ></iframe>
 		           <figcaption>{{ post.int-wiref-caption }}</figcaption>
 			    </figure>
+			    {% endif %} 
 		            <figure> 
                             <img src="img/portfolio/{{ post.img4 }}" class="img-responsive img-alter-centered" alt="{{ post.alt}}">
                               <figcaption>{{ post.img4-caption }}</figcaption>
