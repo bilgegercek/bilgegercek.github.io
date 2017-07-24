@@ -302,11 +302,11 @@ section.success {
 }
 
 span.caption-title {
-    font-size: 1.25em;
+    font-size: 1.5em;
     font-weight: 200;
     position: absolute;
     left: 0;
-    top: 90%;
+    top: 95%;
     width: 100%;
     text-align: center;
     color: #fff;
