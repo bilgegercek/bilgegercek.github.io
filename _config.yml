@@ -44,7 +44,7 @@ social:
     url: https://twitter.com/bilgegercek
   - title: linkedin
     url: https://www.linkedin.com/in/bilgegercek/
-  - title: github
+  # - title: github
     url: http://github.com/bilgegercek
 
 # Postal address (add as many lines as necessary)
