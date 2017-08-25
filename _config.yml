@@ -14,7 +14,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -42,11 +42,11 @@ footer:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/bilgegercek/
- - title: twitter
+  - title: twitter
     url: https://twitter.com/bilgegercek
  
-#   - title: github
-#     url: http://github.com/bilgegercek
+  # - title: github
+    url: http://github.com/bilgegercek
 
 # Postal address (add as many lines as necessary)
 address:
