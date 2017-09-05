@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-title: Women on the Move
+title: Quick Intro
 date: 2014-07-17
 img: QI-cover.png
 alt: image-alt
 project-date: Jan 2016
-client: Website Redesign Project
+client: Personal Project
 category: UX/UI Design
 description: Quick Intro is a hobby project. The aim is to provide quick facts about a subject in a structured manner. The project is supposed to include several categories of topics such as touristic places around the world, history of art, artists, etc. Each category will cover distinct subheadings according to the context. Quick Intro apps will also provide users with a list of suggested readings that can be purchased via Amazon.com. 
 role: I was the designer of the project and worked in collaboration with the developer. I designed the information structure of each category and logos, produced wireframes, and finalized the interface design. I was also responsible for the content creation of the apps. 
