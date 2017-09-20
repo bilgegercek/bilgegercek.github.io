@@ -2,14 +2,14 @@
 layout: default
 modal-id: 2
 title: Women on the Move
-date: 2017-07-17
+date: 2017-07-15
 img: QI-cover.png
 alt: WOM Redesign
 project-date: Jul 2017
 client: Website Redesign Project
 category: UX/UI Design
 description: Women on the Move is a Toronto-based company that empowers women entrepreneurs by providing a shared office and sales advisory program. They  were not happy with their website design because it did not deliver the message effectively. I have worked for them to redesign the entire website. 
-role: I worked as a UX/UI designer in this project and also developed the website on Wordpress. I directly worked with the owner to understand the business needs of the project as well as conducted user research with the participants of the workshops that Women on the Move hosted to get insights into the user expectetions and their perceptions of the company.  
+role: I worked as a UX/UI designer in this project and also created the website using Wordpress. I directly worked with the owner to understand the business needs of the project as well as conducted user research with the participants of the workshops that Women on the Move hosted to get insights into the user expectetions and their perceptions of the company.  
 process: The main problem of the previous design was the information was not presented in a structured way so that it was difficult to understand what their mission is and what kind of services they provide. 
 details1: I had meetings with the owner and community manager to better understand their purpose in business and their concerns about the existing site. I also talked to their clients at their events to see how well-informed they are about the company. Most of the participants heard about WOM events via Eventbrite and even the ones that visited the website did not have a clear idea about how they can be a part of WOM and benefit from the services they provide. They stated that the existing site looked outdated and they did not know about the details of "Moving to a Million" program which generated the main revenue stream. 
 details2: I performed a competitive review of similar companies to identify the uniqueness of WOM. I realized that they are one of a few companies in Toronto that focuses on women entrepreneurs and they don't only provide a co-working space but also help them empower their businesses either by providing free business workshops or by one-on-one sales advisory program. 
