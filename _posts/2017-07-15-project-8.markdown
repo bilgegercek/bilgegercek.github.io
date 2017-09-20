@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 title: Women on the Move
-date: 2017-07
+date: 2017-07-17
 img: QI-cover.png
 alt: WOM Redesign
 project-date: Jul 2017
