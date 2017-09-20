@@ -5,7 +5,7 @@ title: Women on the Move
 date: 2017-07
 img: QI-cover.png
 alt: WOM Redesign
-project-date: Jan 2016
+project-date: Jul 2017
 client: Website Redesign Project
 category: UX/UI Design
 description: Women on the Move is a Toronto-based company that empowers women entrepreneurs by providing a shared office and sales advisory program. They  were not happy with their website design because it did not deliver the message effectively. I have worked for them to redesign the entire website. 
