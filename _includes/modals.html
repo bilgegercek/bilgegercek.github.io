@@ -36,16 +36,26 @@
         		    <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-alter-centered" alt="{{ post.alt}}">
                             <figcaption>{{ post.img3-caption }}</figcaption>
                             </figure>
+			    {% if post.details3 != nil %}
+			    <p>{{ post.details3 }}</p>
+			    {% endif %} 
 			    {% if post.int-wiref != nil %}
 			    <figure> 	    
                            <iframe {{ post.int-wiref}} ></iframe>
 		           <figcaption>{{ post.int-wiref-caption }}</figcaption>
 			    </figure>
 			    {% endif %} 
+			    <p>{{ post.details4 }}</p>
+			    <p>{{ post.details5 }}</p>
 		            <figure> 
                             <img src="img/portfolio/{{ post.img4 }}" class="img-responsive img-alter-centered" alt="{{ post.alt}}">
                               <figcaption>{{ post.img4-caption }}</figcaption>
                             </figure>
+			    <p>{{ post.details6 }}</p>
+		            <figure> 
+                            <img src="img/portfolio/{{ post.img5 }}" class="img-responsive img-alter-centered" alt="{{ post.alt}}">
+                              <figcaption>{{ post.img5-caption }}</figcaption>
+                            </figure> 
 			    <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong>{{ post.client }}
