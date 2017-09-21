@@ -45,17 +45,26 @@
 		           <figcaption>{{ post.int-wiref-caption }}</figcaption>
 			    </figure>
 			    {% endif %} 
+			    {% if post.details4 != nil %}
 			    <p>{{ post.details4 }}</p>
+			    {% endif %} 
+			    {% if post.details5 != nil %}
 			    <p>{{ post.details5 }}</p>
+			    {% endif %} 
+			    {% if post.img4 != nil %}
 		            <figure> 
                             <img src="img/portfolio/{{ post.img4 }}" class="img-responsive img-alter-centered" alt="{{ post.alt}}">
                               <figcaption>{{ post.img4-caption }}</figcaption>
                             </figure>
+			    {% endif %} 
+			    {% if post.details6 != nil %}
 			    <p>{{ post.details6 }}</p>
-		            <figure> 
+		            {% if post.img5 != nil %}
+			    <figure> 
                             <img src="img/portfolio/{{ post.img5 }}" class="img-responsive img-alter-centered" alt="{{ post.alt}}">
                               <figcaption>{{ post.img5-caption }}</figcaption>
                             </figure> 
+			    {% endif %} 
 			    <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong>{{ post.client }}
