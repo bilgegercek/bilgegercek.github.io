@@ -22,7 +22,7 @@ details4: I redesigned their information architecture to provide the users with 
 details5: I sketched design alternatives and created wireframes to present to the owner and community manager. We reviewed each page and section together and agreed on them before started building it in Wordpress. 
 img4: wom-wireframes.png
 img4-caption: Example of Wireframes
-details6: The redesign has been on for about a month now and the requests they get from the website directly to make an appointment to learn more about the services and to visit the coworking space has been increased 300% in this short period of time. 
+details6: The requests they get from the website directly to make an appointment to learn more about the services and to visit the coworking space has been increased 300% in a month after we published the new design. 
 img5: wom-screens.png
 img5-caption: Example of Pages
 deneme: ELSEIF DENEME
