@@ -1,0 +1,30 @@
+---
+layout: default
+modal-id: 2
+title: Catchwire
+date: 2017-08-01
+img: catchwire-cover.png
+alt: Catchwire
+project-date: Jul 2017
+client: Web Application Project
+category: UX/UI Design
+description: Catchwire is an intelligent inline network monitoring appliance to detect threats to high value and remote areas of the network. It monitors, collects, processes, filters and redirects data traffic to leading collector. Scaling from single endpoint to entire networks, it provides its users with various possibilities as a powerful hardware product. The product has been on the market for a couple of years and been managed manually. 
+role: I worked as a UX/UI designer while collaborating directly with product manager and development team. I was responsible for assisting the generation of project requirements, designing the information architecture, producing user flows and wireframes as well as user interfaces. 
+process: The problem with the hardware product is that the users have to configure the devices within the system by command line. There was no prior user interface. This requires not only a high level of expertise but also an extra effort to customize and automatize individual processes. 
+details1: As a solution, The company aimed to extend its portfolio by providing a web-based administration panel that would enable the users to configure the device and to ease the utilization process.  
+img2: pano-small.png
+img2-caption: Photo from a Whiteboard Session
+details2: Due to the NDA, we couldn't reach out any of the existing users to conduct user interviews until we release the first iteration. To learn more about the possible use cases of the device and the competitors' products, we researched on network monitoring processes online, analyzed competitors' products, features and user interfaces. With the information gathered, we discussed the possible use cases to identify what tasks to be accomplished by the users and generated the list of potential features. After several brainstorming sessions with the team, we prioritized the features for the first release. 
+img3: cw-sketch-export.png
+img3-caption: Example of a Preliminary Design
+details3: Although the first release was our priority, I also had to foresee the upcoming features and usage of the product so that we can further plan the implementation process. I worked closely with the development team during sketching the design alternatives to accelerate our design process. Among several alternatives, we synthesized the optimal solution and development team started to work on the back end components while I was fine tuning the interaction design. I have submitted several interactive lo-fi prototypes before starting to work on visual design. 
+details4: This is an ongoing project which I have completed the design requirements for the first release. I have to wait until the first release to start interviewing the users due to the business strategy of the client and then we will work on enhancing the product. 
+details5: https://xd.adobe.com/view/8afa15ef-81ff-4b8a-8a4c-ec4826c9542c 
+img4: wom-wireframes.png
+img4-caption: Example of Wireframes
+details6: 
+img5: cw-screens.png
+img5-caption: Example of Pages
+deneme: ELSEIF DENEME
+---
+
