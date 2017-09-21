@@ -18,8 +18,8 @@ details2: Due to the NDA, we couldn't reach out any of the existing users to con
 img3: cw-sketch-export.png
 img3-caption: Example of a Preliminary Design
 details3: Although the first release was our priority, I also had to foresee the upcoming features and usage of the product so that we can further plan the implementation process. I worked closely with the development team during sketching the design alternatives to accelerate our design process. Among several alternatives, we synthesized the optimal solution and development team started to work on the back end components while I was fine tuning the interaction design. I have submitted several interactive lo-fi prototypes before starting to work on visual design. 
-details4: This is an ongoing project which I have completed the design requirements for the first release. I have to wait until the first release to start interviewing the users due to the business strategy of the client and then we will work on enhancing the product. 
-details5: https://xd.adobe.com/view/8afa15ef-81ff-4b8a-8a4c-ec4826c9542c 
+details6: This is an ongoing project which I have completed the design requirements for the first release. I have to wait until the first release to start interviewing the users due to the business strategy of the client and then we will work on enhancing the product. 
+details5: 
 img4: wom-wireframes.png
 img4-caption: Example of Wireframes
 details6: 
