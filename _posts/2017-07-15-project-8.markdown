@@ -1,0 +1,29 @@
+---
+layout: default
+modal-id: 2
+title: Women on the Move
+date: 2017-07-15
+img: wom-cover.png
+alt: WOM Redesign
+project-date: Jul 2017
+client: Website Redesign Project
+category: UX/UI Design
+description: Women on the Move is a Toronto-based company that empowers women entrepreneurs by providing a shared office and sales advisory program. They  were not happy with their website design because it did not deliver the message effectively. I have worked for them to redesign the entire website. 
+role: I worked as a UX/UI designer in this project and also created the website using Wordpress. I directly worked with the owner to understand the business needs of the project as well as conducted user research with the participants of the workshops that Women on the Move hosted to get insights into the user expectetions and their perceptions of the company.  
+process: The main problem of the previous design was the information was not presented in a structured way so that it was difficult to understand what their mission is and what kind of services they provide. 
+details1: I had meetings with the owner and community manager to better understand their purpose in business and their concerns about the existing site. I also talked to their clients at their events to see how well-informed they are about the company. Most of the participants were women who either recently started their businesses or currently considering doing so. The reason they encountered WOM was they were looking for workshops and/or seminars that they can improve their business skills. They heard about WOM events via Eventbrite and were not aware of what WOM does. Even the ones that visited the website did not have a clear idea about how they can be a part of WOM and benefit from the services they provide. They stated that the existing site looked outdated and they did not know about the details of "Moving to a Million" program which generated the main revenue stream for WOM. 
+img2: before-m2am.png
+img2-caption: Example of a Page from Previous Website
+details2: I performed a competitive review of similar companies to identify the uniqueness of WOM. I realized that they are one of a few companies in Toronto that focuses on women entrepreneurs and they don't only provide a co-working space but also help them empower their businesses either by providing free business workshops or by one-on-one sales advisory program. 
+img3: wom-persona.png
+img3-caption: Example of Persona
+details3: I did not only focus on the website design, but also on how they improve their business at WOM. WOM did not offer day-pass for the co-working space while most of their competitors do. From the user interviews I conducted during the workshops, I knew that some women entrepreneurs were undecided about committing for a monthly membership of the co-working space. Therefore I proposed that they may also offer a day-pass for the ones who wants to experience the co-working environment before becoming a committed member. (WOM agreed with me on this proposition :) ) Moreover, I realized that their visibility on social media is almost non-existing. I suggested them to create unique hashtags for each event they host and ask their participants to post on social media to let their social network know about WOM and its services. They are working on this. 
+details4: I redesigned their information architecture to provide the users with easy-to-understand structure of services. Each service of WOM has its own section with clear descriptions as well as the testimonials that belong to each service. 
+details5: I sketched design alternatives and created wireframes to present to the owner and community manager. We reviewed each page and section together and agreed on them before started building it in Wordpress. 
+img4: wom-wireframes.png
+img4-caption: Example of Wireframes
+details6: The redesign has been on for about a month now and the requests they get from the website directly to make an appointment to learn more about the services and to visit the coworking space has been increased 300% in this short period of time. 
+img5: wom-screens.png
+img5-caption: Example of Pages
+deneme: ELSEIF DENEME
+---
